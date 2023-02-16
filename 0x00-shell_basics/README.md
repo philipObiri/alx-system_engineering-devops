@@ -1,8 +1,10 @@
 Shell Basics 📃 0x00-shell_basics
+------------------------------------------------------
 About this project:
-In this project i practiced and learnt some basic introduction to shell programing;
 
-General
+=============
+In this project i practiced and learnt some basic introduction to shell programing;==================
+
 What does RTFM mean?
 What is a Shebang
 What is the Shell
